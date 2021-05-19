@@ -6,7 +6,7 @@ Connect to DB:
 
 http://localhost:8081/h2-console/
 
-Database available at :: jdbc:h2:mem:testdb
+Database available at :: jdbc:h2:mem:tradedb
 
 >>>>>>>
 
